@@ -1,0 +1,8 @@
+echo "# packk-a-panch" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/aliciamcbee/packk-a-panch.git
+git push -u origin main
+PS C:\Users\mokro\study-react> git checkout feature/sample.2
